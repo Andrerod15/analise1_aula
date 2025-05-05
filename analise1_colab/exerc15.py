@@ -1,0 +1,16 @@
+"""## Exercício 15: Implemente um programa que identifica o dia da semana baseado em um número (1 = Segunda, 7 = Domingo)."""
+
+def diasemana(num):
+  return {
+      '1': "segunda",
+      '2': "terça",
+      '3': "quarta",
+      '4': "quinta",
+      '5': "sexta",
+      '6': "sábado",
+      '7': "domingo"
+
+  }.get(num, 'não encontrado')
+
+num = input('Digite um número de 1 a 7: ')
+print(diasemana(num))
