@@ -2,3 +2,5 @@
 
 idade = int(input('Digite a idade: '))
 print('Adulto' if idade >= 18 else 'Menor de Idade')
+
+
