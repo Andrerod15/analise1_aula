@@ -2,3 +2,4 @@
 
 num = int(input('Digite um número: '))
 print('Positivo' if num > 0 else 'Negativo')
+
