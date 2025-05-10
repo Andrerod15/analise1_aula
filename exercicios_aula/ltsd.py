@@ -67,6 +67,7 @@ print('Dicionário 2: ', dicionário2)
 # # 2 - Faça o mesmo que o exercício anterior, mas com valores randômicos do tipo inteiro.
 # # - faça o import random
 
+
 # import random
 
 # def gerar_dados(qtd, min_val, max_val):
