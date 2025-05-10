@@ -126,4 +126,3 @@ print('Dicionário 2: ', dicionário2)
 #print(frutas_lista)
 #frutas_lista.pop(1)
 #print(frutas_lista)
-
