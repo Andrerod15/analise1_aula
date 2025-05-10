@@ -28,3 +28,4 @@ else:
     print('Soma = ', resultado)
 finally:
     print('Fim do par!')
+    
